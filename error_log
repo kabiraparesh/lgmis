@@ -1,0 +1,1 @@
+[22-Mar-2013 18:56:12] PHP Fatal error:  Using $this when not in object context in /home/nagarbet/public_html/mcmis/protected/views/report/bill.php on line 43
